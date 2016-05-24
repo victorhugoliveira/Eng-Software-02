@@ -1,6 +1,6 @@
-	Técnicas de Elicitação de Requisitos
+Técnicas de Elicitação de Requisitos
 			           
-	Projeto Sistema para Conversão de Temperatura
+Projeto Sistema para Conversão de Temperatura
 			                                    
 	Requisitos Conscientes – Entrevista Estruturada
 
