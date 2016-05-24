@@ -18,4 +18,4 @@
       		Técnica de Elicitação: 
       		  - Tipo de Técnica: Criatividade 
       			  - Exemplos: 
-                  - Layout/Interface/Apresentação da saída de dados mais sofisticada graficamente, “bonita”. 
+                                    - Layout/Interface/Apresentação da saída de dados mais sofisticada graficamente, “bonita”. 
