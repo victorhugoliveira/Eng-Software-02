@@ -1,0 +1,31 @@
+				                                      Técnicas de Elicitação de Requisitos
+			           
+			                                    Projeto Sistema para Conversão de Temperatura
+			                                    
+	Requisitos Conscientes – Entrevista Estruturada
+
+      	Questões da entrevista:
+      
+            	1. Qual a finalidade do sistema?
+            		Realizar a conversão da temperatura em graus Celsius para Kelvin ou Fahrenheit. 
+            
+            	2. Quais são os pré-requisitos que o sistema deve atender?
+            		- Fornecer a temperatura em graus Celsius;
+            		- Calcular a conversão da temperatura Celsius para Kelvin ou Fahrenheit.
+            
+            	3. Quem irá utilizar o sistema?
+            		- Público em geral, não existe restrição.
+            
+            	4. Qual o prazo para a montagem do sistema?
+            		- Até 10/06. Primeira data de apresentação do projeto. 55 dias, desde a data desta elicitação.
+
+
+
+	Requisitos subconscientes – Observação de campo
+
+	      - Os resultados dos cálculos da conversão devem ser exibidos na tela. 
+
+	Requisitos Inconscientes – Criatividade
+
+	      - Layout/Interface/Apresentação da saída de dados mais sofisticada graficamente, “bonita”.
+
