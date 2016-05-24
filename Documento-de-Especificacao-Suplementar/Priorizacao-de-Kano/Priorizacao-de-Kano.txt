@@ -1,0 +1,21 @@
+  	Priorização de Kano 
+
+      	Requisitos Esperados - Conscientes 
+      		Técnica de Elicitação: Entrevista Não Estruturada 
+      		  - Tipo de Técnica: Pesquisa 
+      			  - Exemplos: 
+            			- Calcular/Converter da entrada de dados, temperatura em Celsius, para Kelvin e Fahrenheit
+              
+       
+      	Requisitos Básicos - Subconscientes 
+      		Técnica de Elicitação: Observação de Campo
+      		  - Tipo de Técnica: Observação 
+      			  - Exemplos: 
+           				- Exibir o resultado dos cálculos de conversão de temperatura na tela 
+                     
+       
+      	Requisitos Inesperados – Inconscientes 
+      		Técnica de Elicitação: 
+      		  - Tipo de Técnica: Criatividade 
+      			  - Exemplos: 
+                  - Layout/Interface/Apresentação da saída de dados mais sofisticada graficamente, “bonita”. 
