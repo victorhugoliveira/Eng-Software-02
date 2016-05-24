@@ -1,4 +1,4 @@
-  	Priorização de Kano 
+Priorização de Kano 
 
       	Requisitos Esperados - Conscientes 
       		Técnica de Elicitação: Entrevista Não Estruturada 
