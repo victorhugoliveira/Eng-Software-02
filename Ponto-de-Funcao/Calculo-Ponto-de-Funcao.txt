@@ -1,0 +1,9 @@
+                                          Cálculo do Ponto de Função
+                            
+                                            Contagem Total = 11
+                              
+                                  Representa os Fatores de Ajuste de Valor = 19
+                            
+                                  FP = Contagem Total * [0,65 + 0,01 * ∑(Fi)]
+                                         FP = 11 * [0,65 + 0,01 * 19]
+                                                    FP = 9,24
